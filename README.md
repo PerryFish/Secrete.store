@@ -1,2 +1,2 @@
 # Secrete.store
-This repository holds a lot of scientific research codes
+This repository holds a lot of scientific research codes for PerryFish
